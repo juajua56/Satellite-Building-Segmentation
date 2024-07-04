@@ -13,6 +13,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+### Dataset
+You can download the dataset from this [link](https://dacon.io/competitions/official/236092/data) and place it in the 'dataset' directory.
+
 ### Train our model from scratch
 You can train the model with the best hyperparameters for each dataset by typing the following command in your terminal:
 ```python
