@@ -2,7 +2,7 @@
 2023 인공지능경진대회@소중대, Runner-Up(정보통신기획평가원장상)
 
 ## Approach
-[Presentation](./assets/Approach.pptx)
+[Presentation](./assets/presentation.pptx)
 
 ## Prerequisties
 You can install the required packages with a conda environment by typing the following command in your terminal:
