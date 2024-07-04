@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument('--train_csv', type=str, default='./data/train.csv', help='Path to the train CSV file')
     parser.add_argument('--valid_csv', type=str, default='/data/valid.csv', help='Path to the validation CSV file')
     parser.add_argument('--test_csv', type=str, default='/data/test.csv', help='Path to the test CSV file')
-    parser.add_argument('--sample_submission_csv', type=str, default='./result/sample_submission.csv', help='Path to the sample submission CSV file')
+    parser.add_argument('--sample_submission_csv', type=str, default='./data/sample_submission.csv', help='Path to the sample submission CSV file')
     
     # Other parameters
     parser.add_argument('--log_file', type=str, default='result.log', help='Log file name')
